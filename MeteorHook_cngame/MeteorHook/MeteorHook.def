@@ -1,0 +1,4 @@
+LIBRARY	"MeteorHook"
+
+EXPORTS
+KeyboardProc @ 1
